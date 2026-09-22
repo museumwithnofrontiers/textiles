@@ -1,11 +1,11 @@
 {
-  "__SITE_NAMESPACE__.identity.organisation": "Museum With No Frontiers",
-  "__SITE_NAMESPACE__.identity.title": "__DATASET__",
-  "__SITE_NAMESPACE__.identity.copyright": "© Museum With No Frontiers",
-  "__SITE_NAMESPACE__.home.intro": "Welcome to __DATASET__.",
-  "__SITE_NAMESPACE__.home.catalogueText": "Browse every item by country and date.",
-  "__SITE_NAMESPACE__.home.itemOnDisplay": "Item on display",
-  "__SITE_NAMESPACE__.nav.catalogue": "Catalogue",
-  "__SITE_NAMESPACE__.nav.about": "About",
-  "__SITE_NAMESPACE__.about.body": "This website is published by Museum With No Frontiers. Replace this text with what __DATASET__ is and who made it."
+  "textiles.identity.organisation": "Museum With No Frontiers",
+  "textiles.identity.title": "textiles",
+  "textiles.identity.copyright": "© Museum With No Frontiers",
+  "textiles.home.intro": "Welcome to textiles.",
+  "textiles.home.catalogueText": "Browse every item by country and date.",
+  "textiles.home.itemOnDisplay": "Item on display",
+  "textiles.nav.catalogue": "Catalogue",
+  "textiles.nav.about": "About",
+  "textiles.about.body": "This website is published by Museum With No Frontiers. Replace this text with what textiles is and who made it."
 }
